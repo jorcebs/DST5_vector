@@ -1,0 +1,28 @@
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\bin\Debug\Vector.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\bin\Debug\Vector.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\bin\Debug\Vector.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.Form1.resources
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Vector\Vector\obj\Debug\Vector.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.exe.config
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.exe
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\bin\Debug\Vector.pdb
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.Form1.resources
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.exe
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\5. Vector\Vector\obj\Debug\Vector.pdb
